@@ -2,10 +2,9 @@
   {"nombre":"rumba",
    "caro":"mucho",
    "divertido":"mas o menos"},
-   "nombre":"pelicula",
+  {"nombre":"pelicula",
    "divertido":"mas o menos",
    "divertido":"poco"},
-   "nombre":"sexo",
+  {"nombre":"sexo",
    "caro":"nada"}
-  }
  ]}
